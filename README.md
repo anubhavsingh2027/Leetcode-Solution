@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
