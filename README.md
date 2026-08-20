@@ -32,6 +32,7 @@
 | [0177-nth-highest-salary](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
 | [0627-swap-sex-of-employees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
+| [1757-recyclable-and-low-fat-products](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
