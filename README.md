@@ -29,6 +29,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
 | [0627-swap-sex-of-employees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
