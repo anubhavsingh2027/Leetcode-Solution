@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
