@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0176-second-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
 ## Hash Table
 |  |
