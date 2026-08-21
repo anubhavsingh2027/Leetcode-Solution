@@ -33,6 +33,7 @@
 | [0185-department-top-three-salaries](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
 | [0627-swap-sex-of-employees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1068-product-sales-analysis-i) |
+| [1683-invalid-tweets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
