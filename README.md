@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
