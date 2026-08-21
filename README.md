@@ -38,6 +38,7 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3475-dna-pattern-recognition](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3475-dna-pattern-recognition) |
 ## Hash Table
 |  |
 | ------- |
