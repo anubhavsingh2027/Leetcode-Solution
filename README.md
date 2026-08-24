@@ -12,6 +12,7 @@
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -87,6 +89,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -105,6 +109,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
@@ -148,8 +153,13 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
