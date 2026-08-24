@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -178,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
