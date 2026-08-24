@@ -9,7 +9,7 @@ public:
             int end=arr[i][1];
             int prevFirst=ans.back()[0];
             int prevEnd=ans.back()[1];
-            if(prevEnd>=start && prevFirst<=start){
+            if(prevEnd>=start ){
                 ans.pop_back();
                 int maxi=max(end,prevEnd);
                 ans.push_back({prevFirst,maxi});
