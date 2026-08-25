@@ -20,6 +20,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
