@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
