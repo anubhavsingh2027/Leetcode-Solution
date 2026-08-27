@@ -15,6 +15,7 @@
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
@@ -182,10 +183,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,4 +231,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
