@@ -190,6 +190,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -247,5 +249,6 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
