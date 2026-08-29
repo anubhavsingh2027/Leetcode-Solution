@@ -9,9 +9,9 @@ public:
             prefix*=nums[i];
         }
         int suffix=1;
-        for(int i=n-1;i>=0;i--){
-            ans[i]*=suffix;
-            suffix*=nums[i];
+        for(int j=n-1;j>=0;j--){
+            ans[j]*=suffix;
+            suffix*=nums[j];
         }
         return ans;
     }
