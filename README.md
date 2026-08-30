@@ -59,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -199,6 +200,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
@@ -255,10 +257,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
