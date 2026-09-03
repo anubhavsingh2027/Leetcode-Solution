@@ -10,17 +10,15 @@
  * };
  */
 class Solution {
-    bool same=true;
-    void inorder(TreeNode*p,TreeNode*q){
-        if(!p && !q)return;
-        if(!p || !q){same=false; return;}
-        inorder(p->left,q->left);
-        if(p->val!=q->val)same=false;
-        inorder(p->right,q->right);
+    bool preorder(TreeNode*p ,TreeNode*q){
+        if(!p && !q)return true;
+        if(!p || !q)return false;
+        if(p->val!=q->val)return false;
+        return preorder(p->left,q->left) && preorder(p->right,q->right);;
+
     }
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        inorder(p,q);
-        return same;
+      return preorder(p,q);  
     }
 };
