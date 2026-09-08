@@ -102,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
@@ -187,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
