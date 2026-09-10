@@ -153,6 +153,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
