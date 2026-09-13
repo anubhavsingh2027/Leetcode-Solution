@@ -110,6 +110,7 @@
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -258,6 +259,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -302,4 +304,16 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
