@@ -14,6 +14,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
 ## Simulation
 |  |
