@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
@@ -316,4 +317,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
