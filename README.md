@@ -31,6 +31,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
+| [4020-elevator-requests-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4020-elevator-requests-i) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
+| [4020-elevator-requests-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4020-elevator-requests-i) |
 ## Database
 |  |
 | ------- |
