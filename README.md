@@ -111,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
@@ -203,6 +204,7 @@
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
