@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
