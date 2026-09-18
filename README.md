@@ -23,6 +23,7 @@
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
