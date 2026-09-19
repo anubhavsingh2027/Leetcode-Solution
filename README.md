@@ -117,6 +117,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
