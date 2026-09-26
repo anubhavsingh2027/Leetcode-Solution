@@ -20,6 +20,7 @@
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -83,6 +84,7 @@
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -100,6 +102,7 @@
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
