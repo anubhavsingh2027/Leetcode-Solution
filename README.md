@@ -102,6 +102,7 @@
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -264,6 +265,7 @@
 | [0155-min-stack](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
