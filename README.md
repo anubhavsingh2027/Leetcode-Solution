@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -83,6 +84,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
@@ -296,6 +298,7 @@
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
@@ -365,6 +368,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -428,4 +432,5 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
