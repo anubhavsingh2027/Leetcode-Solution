@@ -6,7 +6,7 @@ public:
     }
     
     void add(int key) {
-        mp[key]+=1;
+        mp[key]=1;
     }
     
     void remove(int key) {
