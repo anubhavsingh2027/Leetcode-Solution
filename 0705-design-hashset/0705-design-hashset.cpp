@@ -1,27 +1,20 @@
 class MyHashSet {
-    vector<int>mp;
+    vector<bool>mp;
 public:
     MyHashSet() {
-        mp.resize(1000005, -1);
+        mp.resize(1000005, false);
     }
     
     void add(int key) {
-        mp[key]=1;
+        mp[key]=true;
     }
     
     void remove(int key) {
-      mp[key]=-1;
+      mp[key]=false;
     }
     
     bool contains(int key) {
-         return mp[key]!=-1;
+         return mp[key];
     }
 };
 
-/**
- * Your MyHashSet object will be instantiated and called as such:
- * MyHashSet* obj = new MyHashSet();
- * obj->add(key);
- * obj->remove(key);
- * bool param_3 = obj->contains(key);
- */
