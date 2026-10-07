@@ -105,6 +105,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -224,6 +225,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
