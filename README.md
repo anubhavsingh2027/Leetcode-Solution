@@ -41,6 +41,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 | [4020-elevator-requests-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Database
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | ------- |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -331,6 +336,7 @@
 | [0239-sliding-window-maximum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -443,4 +449,8 @@
 | ------- |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
