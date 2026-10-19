@@ -26,6 +26,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -341,6 +342,7 @@
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Segment Tree
 |  |
 | ------- |
