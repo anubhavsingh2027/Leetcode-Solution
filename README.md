@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -450,6 +451,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Segment Tree
