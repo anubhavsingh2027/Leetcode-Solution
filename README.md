@@ -87,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -113,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
@@ -163,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
