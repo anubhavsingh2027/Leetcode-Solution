@@ -17,7 +17,7 @@ public:
     string shortestCommonSupersequence(string str1, string str2) {
         int n=str1.size();
         int m=str2.size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        vector<vector<int>>dp(1005,vector<int>(1005,0));
         buildLcs(str1,str2,dp);
 
         //common part
