@@ -129,6 +129,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
@@ -296,6 +297,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1035-uncrossed-lines](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1035-uncrossed-lines) |
+| [1092-shortest-common-supersequence](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
@@ -503,6 +505,7 @@
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1035-uncrossed-lines) |
+| [1092-shortest-common-supersequence](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 ## Rolling Hash
 |  |
 | ------- |
