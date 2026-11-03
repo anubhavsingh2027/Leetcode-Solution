@@ -244,6 +244,7 @@
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -279,6 +280,7 @@
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
@@ -302,6 +304,7 @@
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1035-uncrossed-lines](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
@@ -450,9 +453,11 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 ## Recursion
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
