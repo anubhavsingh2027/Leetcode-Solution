@@ -28,6 +28,7 @@
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
@@ -106,6 +107,7 @@
 | [1396-design-underground-system](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1396-design-underground-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
