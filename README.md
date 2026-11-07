@@ -31,6 +31,7 @@
 | [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -388,6 +389,7 @@
 | [0239-sliding-window-maximum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1882-process-tasks-using-servers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1882-process-tasks-using-servers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
