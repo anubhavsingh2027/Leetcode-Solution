@@ -21,15 +21,15 @@ class Trie {
    
  TrieNode *root;
 
-  void insertUtil(TrieNode *root, string word)
+  void insertUtil(TrieNode *root, string &word,int i)
   { // base case
-    if (word.size() == 0)
+   if (i==word.size())
     {
       root->isTerminal = true;
       return;
     }
     // assumption  on word all in small
-    int index = word[0] - 'a';
+    int index = word[i] - 'a';
     TrieNode *child;
 
     // present
@@ -40,22 +40,22 @@ class Trie {
     // absent
     else
     {
-      child = new TrieNode(word[0]);
+      child = new TrieNode(word[i]);
       root->children[index] = child;
     }
     // recursion call;
-    insertUtil(child, word.substr(1));
+    insertUtil(child, word,i+1);
   }
 
-  bool searchUtil(TrieNode *root, string word)
+  bool searchUtil(TrieNode *root, string &word,int i)
   {
     // base case
-    if (word.size() == 0)
+    if (i==word.size())
     {
       return root->isTerminal;
     }
 
-    int index = word[0] - 'a';
+    int index = word[i] - 'a';
     TrieNode *child;
     // present
     if (root->children[index] != nullptr)
@@ -67,14 +67,14 @@ class Trie {
     {
       return false;
     }
-    return searchUtil(child, word.substr(1));
+    return searchUtil(child, word,i+1);
   }
 
-  bool startUtil(TrieNode *root, string word){
-    if(word.size()==0){
+  bool startUtil(TrieNode *root, string &word,int i){
+    if(i==word.size()){
         return true;
     }
-    int index=word[0]-'a';
+    int index=word[i]-'a';
     TrieNode*child;
     if(root->children[index]!=nullptr){
         child=root->children[index];
@@ -82,7 +82,7 @@ class Trie {
     else{
         return false;
     }
-    return startUtil(child,word.substr(1));
+    return startUtil(child,word,i+1);
   }
 
 public:
@@ -91,17 +91,17 @@ public:
     }
     
     void insert(string word) {
-        insertUtil(root,word);
+        insertUtil(root,word,0);
         
     }
     
     bool search(string word) {
-       return  searchUtil(root, word);
+       return  searchUtil(root, word,0);
         
     }
     
     bool startsWith(string prefix) {
-        return startUtil(root,prefix);
+        return startUtil(root,prefix,0);
     }
 };
 
