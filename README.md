@@ -22,6 +22,7 @@
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [1035-uncrossed-lines](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1035-uncrossed-lines) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
@@ -60,6 +61,7 @@
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3242-design-neighbor-sum-service](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3242-design-neighbor-sum-service) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -218,6 +220,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
@@ -263,6 +266,7 @@
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -276,6 +280,7 @@
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -459,6 +464,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Memoization
 |  |
