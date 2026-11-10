@@ -46,6 +46,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3693-climbing-stairs-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -328,6 +329,7 @@
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
