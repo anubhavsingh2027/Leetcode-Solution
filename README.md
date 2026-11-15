@@ -132,6 +132,7 @@
 | [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
