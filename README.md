@@ -28,6 +28,7 @@
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1748-sum-of-unique-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -187,6 +188,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
@@ -325,6 +327,7 @@
 | [1092-shortest-common-supersequence](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1092-shortest-common-supersequence) |
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
