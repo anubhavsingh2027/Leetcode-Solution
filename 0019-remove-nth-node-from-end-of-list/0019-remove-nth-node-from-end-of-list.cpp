@@ -17,7 +17,7 @@ public:
             fast=fast->next;
         }
         if(!fast)return slow->next;
-        while(fast->next!=nullptr){
+        while(fast->next){
             fast=fast->next;
             slow=slow->next;
         }
