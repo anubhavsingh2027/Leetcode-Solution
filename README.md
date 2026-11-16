@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -135,6 +137,7 @@
 | [0020-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
@@ -391,6 +394,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
