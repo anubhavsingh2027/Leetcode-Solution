@@ -464,6 +464,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1472-design-browser-history) |
@@ -492,6 +493,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
