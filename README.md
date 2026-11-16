@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0705-design-hashset](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0706-design-hashmap) |
@@ -511,6 +512,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
