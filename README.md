@@ -105,6 +105,7 @@
 | [0146-lru-cache](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -140,6 +141,7 @@
 | [0171-excel-sheet-column-number](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
@@ -392,6 +394,7 @@
 | [0056-merge-intervals](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
