@@ -270,6 +270,7 @@
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
@@ -283,6 +284,7 @@
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -297,6 +299,7 @@
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1267-count-servers-that-communicate) |
@@ -310,6 +313,7 @@
 | [0112-path-sum](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/0894-all-possible-full-binary-trees) |
