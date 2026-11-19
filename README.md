@@ -40,6 +40,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -226,6 +227,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
@@ -411,6 +413,7 @@
 | [1402-reducing-dishes](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
