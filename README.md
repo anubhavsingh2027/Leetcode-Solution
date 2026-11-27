@@ -60,6 +60,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4020-elevator-requests-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4020-elevator-requests-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
@@ -234,6 +235,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anubhavsingh2027/Leetcode-Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
